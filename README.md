@@ -1,2 +1,2 @@
-# MyApp /n
-This ismy app
+# MyApp
+This is my app
